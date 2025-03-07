@@ -17,7 +17,7 @@ const Main = () => {
         <div className="container">
             <div className="main">
                 <div className="nav">
-                    <p>AI BOT</p>
+                    <p>Sparkle Bot</p>
                     <img src={assets.user_icon} alt="" />
                 </div>
                 <div className="main-container">
